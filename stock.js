@@ -14,7 +14,7 @@ let stockProductos = [
     {id: 13, nombre: "Cinturon", tipo: "cinturon", cantidad: 1, desc: "Cinturon de maternidad para BabyShower", precio: 1000, img: './img/cinturonBaby4.jpg'},
     {id: 14, nombre: "Cinturon", tipo: "cinturon", cantidad: 1, desc: "Cinturon de maternidad para BabyShower", precio: 1000, img: './img/cinturonBaby3.jpg'},
     {id: 15, nombre: "Moño", tipo: "moño", cantidad: 1, desc: "Moño personalizado para niña", precio: 1000, img: './img/moño5.jpg'},
-    {id: 16, nombre: "Banda", tipo: "Banda", cantidad: 1, desc: "Banda y pies descalzos para Bautizo", precio: 1000, img: './img/bandabautizo1.jpg'}
+    {id: 16, nombre: "Banda", tipo: "Banda", cantidad: 1, desc: "Banda y pies descalzos para Bautizo", precio: 1000, img: './img/bandaBautizo1.jpg'}
     
     
 ]
